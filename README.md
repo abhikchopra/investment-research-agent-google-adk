@@ -9,9 +9,8 @@ This repository focuses on two core agentic AI concepts:
 
 ---
 
-## Learning Progression
+## Progression
 
-### Day 1
 
 Multi-Agent Workflow
 
@@ -33,7 +32,6 @@ Learn how multiple specialized agents collaborate to solve a business problem.
 
 ---
 
-### Day 2
 
 Tool Calling + Explainability
 
