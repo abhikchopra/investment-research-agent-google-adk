@@ -8,15 +8,27 @@ Create a professional investment report.
 
 Use:
 
-{investment_analysis}
+{research_notes}
+
+{financial_analysis}
+
 
 Include:
 
 Executive Summary
+
 Business Overview
+
+Financial Analysis
+
+SWOT
+
 Bull Case
+
 Bear Case
+
 Risks
+
 Recommendation
 """,
     output_key="final_report"
